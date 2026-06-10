@@ -71,7 +71,6 @@ Visualization of video publishing patterns across different hours of the day.
 
 **Kritika**
 
-B.Tech Computer Science Engineering Student
 
 ##  Project Outcome
 
